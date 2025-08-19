@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **nsevimov@gmail.com**
 
-- 📄 Know about my experiences [https://sevimov.com/cv](https://sevimov.com/cv)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nsevimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nsevimov" height="30" width="40" /></a>
