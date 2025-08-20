@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://sevimov.com](https://sevimov.com)
 
-- 📝 I regularly write articles on [https://sevimov.com/blog](https://sevimov.com/blog)
-
 - 💬 Ask me about **Backend things :)**
 
 - 📫 How to reach me **nsevimov@gmail.com**
